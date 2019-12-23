@@ -4,3 +4,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks Changes of File.  666
 git no add
+git had been add
