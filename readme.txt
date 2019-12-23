@@ -3,5 +3,4 @@ Git is free software under the GPL.
 2333
 Git has a mutable index called stage.
 Git tracks Changes of File.  666
-git no add
-git had been add
+xi xi xi xi
